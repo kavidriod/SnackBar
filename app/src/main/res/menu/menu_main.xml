@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/simple_snackbar"
+        android:title="Simple"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/custom_snackbar"
+        android:title="Custom Snackbar"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/snackbar_withoptions"
+        android:title="Snackbar with Options"
+        app:showAsAction="never"></item>
+</menu>
